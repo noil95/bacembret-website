@@ -31,7 +31,7 @@ export function GallerySection() {
           </Link>
 
           <h2 className="jf-headline text-center lowercase">
-            deliciously bold <span className="italic">in every bite</span>
+            çdo kafshatë, <span className="italic">një emocion ndryshe</span>
           </h2>
 
           <Link
